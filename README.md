@@ -75,8 +75,8 @@ hsh main.c shell.c test_ls_2
 
 ## Authors <img src="https://cdn-icons-png.flaticon.com/128/2463/2463510.png" width=50 align=center>
 
-* Barasa Jnr <a href="https://github.com/BarasaJnr" rel="nofollow"><img align="center" alt="github" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="24" /></a>
-* Charity Mulei <a href="https://github.com/Charity553" rel="nofollow"><img align="center" alt="github" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="24" /></a>
+* BarasaJnr <a href="https://github.com/BarasaJnr" rel="nofollow"><img align="center" alt="github" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="24" /></a>
+* Charity553 <a href="https://github.com/Charity553" rel="nofollow"><img align="center" alt="github" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="24" /></a>
 <br>
 
  Project developed during the [ @alx_africa ] program.
